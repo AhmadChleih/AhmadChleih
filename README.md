@@ -1,5 +1,7 @@
 <h1 align="center">Frontend Developer</h1>
 
+# About Me
+I'm Ahmad, a Frontend Web Developer with a focus on React and Next.js. I'm currently on a journey to broaden my skills by delving into Backend Development. I've enrolled in boot.dev, an online BootCamp. This has led me to explore Python as my latest area of focus. It allows me to gain hands-on knowledge and apply theoretical concepts to real-world problems.
 
 <h2 align="center">Tech Stack</h2>
 <div align="center">  
